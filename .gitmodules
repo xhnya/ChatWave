@@ -1,0 +1,3 @@
+[submodule "ChatWaveServer"]
+	path = ChatWaveServer
+	url = https://github.com/xhnya/ChatWaveServer.git
