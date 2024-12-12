@@ -7,3 +7,6 @@
 [submodule "chat-wave-web"]
 	path = chat-wave-web
 	url = https://github.com/xhnya/chat-wave-web.git
+[submodule "chat-wave-admin"]
+	path = chat-wave-admin
+	url = https://github.com/xhnya/chat-wave-admin.git
