@@ -13,3 +13,6 @@
 [submodule "chat_wave_flutter"]
 	path = chat_wave_flutter
 	url = https://github.com/xhnya/chat_wave_flutter.git
+[submodule "ChatWaveDesktop"]
+	path = ChatWaveDesktop
+	url = https://github.com/xhnya/ChatWaveDesktop.git
